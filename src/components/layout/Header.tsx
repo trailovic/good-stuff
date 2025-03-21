@@ -1,5 +1,7 @@
 import Auth from "../custom/Auth";
 import Nav from "../custom/Nav";
+import LanguageSwitcher from "../custom/LanguageSwitcher";
+
 import Logo from "../custom/Logo";
 import Search from "../custom/Search";
 import Cart from '../../assets/icons/cart.svg';
@@ -11,6 +13,7 @@ const Header = () => {
       <Logo />
       <Nav />
       <Search />
+      <LanguageSwitcher />
       <div className='flex gap-4 items-center'>
         <a href="#">
           <img src={Cart} alt="Cart icon" className='w-6 h-6' />

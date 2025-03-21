@@ -1,0 +1,31 @@
+{
+    "nav": {
+        "shop": "Butikk",
+        "popular": "Populært",
+        "gifts": "Gaver",
+        "summer sale": "Sommersalg"
+    },
+    "search": {
+        "placeholder": "Søk blant alle good stuff..."
+    },
+    "auth": {
+        "login": "Logg Inn",
+        "profile": "Profil",
+        "settings": "Innstillinger",
+        "logout": "Logg Ut",
+        "logout dialog title": "Bekreft utlogging",
+        "confirm logout": "Er du sikker på at du vil logge ut?",
+        "cancel": "Avbryt"
+    },
+    "circle promo": {
+        "upper text": "BEGRENSET TILBUD",
+        "middle amount text": "-20%",
+        "lower text": "AV 2 ELLER FLERE VARER"
+    },
+    "hero text": {
+        "hero 1": "Det er naturlig.",
+        "hero 2": "Det er miljøvennlig.",
+        "hero 3": "Det er",
+        "hero 4": "good stuff."
+    }
+}

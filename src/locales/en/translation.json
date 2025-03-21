@@ -1,0 +1,31 @@
+{
+    "nav": {
+        "shop": "Shop",
+        "popular": "Popular",
+        "gifts": "Gifts",
+        "summer sale": "Summer Sale"
+    },
+    "search": {
+        "placeholder": "Search all the good stuff..."
+    },
+    "auth": {
+        "login": "Login",
+        "profile": "Profile",
+        "settings": "Settings",
+        "logout": "Logout",
+        "logout dialog title": "Confirm Logout",
+        "confirm logout": "Are you sure you want to log out?",
+        "cancel": "Cancel"
+    },
+    "circle promo": {
+        "upper text": "LIMITED SALE",
+        "middle amount text": "-20%",
+        "lower text": "ON 2 OR MORE ITEMS"
+    },
+    "hero text": {
+        "hero 1": "It's natural.",
+        "hero 2": "It's eco-friendly.",
+        "hero 3": "It's",
+        "hero 4": "good stuff."
+    }
+}

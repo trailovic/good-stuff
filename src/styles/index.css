@@ -21,7 +21,7 @@
   -moz-osx-font-smoothing: grayscale;
   --radius: 0.625rem;
   --background: #ffffff;
-  --foreground: #111827;
+  --foreground: #4A4A4A;
   --card: oklch(1 0 0);
   --card-foreground: oklch(0.129 0.042 264.695);
   --popover: oklch(1 0 0);
