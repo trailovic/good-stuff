@@ -1,9 +1,13 @@
+import Header from '../components/layout/Header';
+import Hero from '../components/layout/Hero';
+
 const Home = () => {
     return (
-        <div className='p-6'>
-        <h1 className='text-3xl'>Home</h1>
+        <div className='h-screen'>
+            <Header />
+            <Hero />
         </div>
     );
 }
   
-export default Home;  
+export default Home;
